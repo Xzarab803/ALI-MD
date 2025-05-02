@@ -17,7 +17,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "𓆩ု᪳𝐀ɭīī 𝐌Ɗှ᪳𓆪"
+      "value": "𓆩ABDULLAH 👑 𓆪"
     }, 
       
     "PREFIX": {
@@ -36,7 +36,7 @@
     "ALWAYS_ONLINE": {
       "description": "Make it true if want always online.",
       "required": false,
-      "value": "false"  
+      "value": "True"  
     },    
   
     "AUTO_VOICE": {
@@ -48,7 +48,7 @@
     "AUTO_REPLY": {
       "description": "Make it true if you want automatic reply.",
       "required": false,
-      "value": "false"
+      "value": "true"
     }, 
     
     "ADMIN_STATUS": {
@@ -109,7 +109,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "𓆩ု᪳𝐀ɭīī 𝐌Ɗှ᪳𓆪"
+      "value": "𓆩A.K𓆪"
 
       }, 
     
